@@ -10,6 +10,7 @@ header {
     background-color: #007bff;
     color: Black;
     padding: 20px;
+    text-line: center;
 }
 
 nav a {
